@@ -1,10 +1,3 @@
-twitterfork of unek node-tip-bot - Biersteker/Strikerbee/Gielbier
-
-node-tip-bot-twitter is an open-source node.js twitter bot for tipping with altcoins. 
-
-It is forked off uneks IRC node-tip-bot (https://github.com/unek/node-tip-bot)
-It uses [node-dogecoin](https://github.com/countable/node-dogecoin) for integration with your coin's JSON RPC API.
-
 # Instalation
 To install node-tip-bot simply clone this repo and install dependencies:
 ```bash
@@ -68,3 +61,4 @@ Commands are executed by placing skeinbot <command> <arguments> in a tweet.
 | `terms`     |                   | displays terms and conditions for using the tip bot
 
 
+Updated: Februaru 16, 2016
